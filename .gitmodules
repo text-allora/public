@@ -1,0 +1,4 @@
+[submodule "readmes/public-readme"]
+	path = readmes/public-readme
+	url = https://github.com/text-allora/.github
+	branch = main
